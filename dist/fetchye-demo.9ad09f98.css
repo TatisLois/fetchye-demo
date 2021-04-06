@@ -1,0 +1,23 @@
+button {
+  margin: 1rem;
+  background-color: red;
+  border: 1px solid red;
+  color: white;
+  padding: .5rem;
+  border-radius: 20px;
+}
+
+button:last-child {
+  margin: 1rem;
+  background-color: green;
+  border: 1px solid green;
+  color: white;
+  border-radius: 20px;
+}
+
+.toggle {
+  background-color: blue;
+  border: 1px solid blue;
+}
+
+/*# sourceMappingURL=/fetchye-demo.9ad09f98.css.map */
